@@ -10,4 +10,4 @@ Targets: 25 by 2026-12-17 · 75 by 2027-05-15 (one a day ≈ 75 by late Jan).
 | 1 | 2026-11-16 | Two Sum | Complement lookup | O(n) / O(n) | 10 | Unaided | First used index as the dict key; key must be what you look up by | — |
 | 2 | 2026-11-16 | Valid Anagram | Counting map | O(n) / O(1) (26-letter alphabet) | 3 | Unaided | — (polish: length early-exit, `Counter`) | — |
 | 3 | 2026-11-18 | Contains Duplicate | Seen set | O(n) / O(n) | 2 | Unaided | NA | - |
-| 4 | 2026-11-18 | Group Anagrams | Canotical Key | O(nmlongm) / O(nm) | hint | getting counter dict into a good key for the larger dict | - |
+| 4 | 2026-11-18 | Group Anagrams | Canotical Key | O(nmlongm) / O(nm) | 14 | hint | getting counter dict into a good key for the larger dict | - |
