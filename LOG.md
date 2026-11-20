@@ -12,3 +12,4 @@ Targets: 25 by 2026-12-17 · 75 by 2027-05-15 (one a day ≈ 75 by late Jan).
 | 3 | 2026-11-18 | Contains Duplicate | Seen set | O(n) / O(n) | 2 | Unaided | NA | — |
 | 4 | 2026-11-18 | Group Anagrams | Canotical Key | O(nmlogm) / O(nm) | 14 | Hint | getting counter dict into a good key for the larger dict | — |
 | 5 | 2026-11-19 | Top K Frequent Elements | Counting map | O(nlogn) / O(n) | 7 | Hint | converting from the counter into the keys witht the highest values| — |
+| 6 | 2026-11-20 | Encode and Decode Strings | Length-Prefix Serialization | both O(nm) / O(nm) | 17 | Unaided | forgot the chr() funciton | — |
