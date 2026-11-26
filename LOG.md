@@ -16,3 +16,4 @@ Targets: 25 by 2026-12-17 · 75 by 2027-05-15 (one a day ≈ 75 by late Jan).
 | 7 | 2026-11-23 | Products of Array Except Self| Prefix Product | O(n) / O(n) | 10 | hint | concept hint| — |
 | 8 | 2026-11-24 | Valid Sudoku | Seen Set | O(n^2) / O(n^2)| 11 | Unaided | NA | — |
 | 9 | 2026-11-25 | Longest Consecutive Sequence | Hash Map, Union | O(n) / O(n) | 19 | Unaided | Designing a dict that both tracks seen values and keeps accurate numbers for boundaries | — |
+| 10 | 2026-11-26 | Valid Parentheses | Stack | 7 | O(n) / O(n) | Unaided | NA | — |
