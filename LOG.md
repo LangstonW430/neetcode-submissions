@@ -17,3 +17,4 @@ Targets: 25 by 2026-12-17 · 75 by 2027-05-15 (one a day ≈ 75 by late Jan).
 | 8 | 2026-11-24 | Valid Sudoku | Seen Set | O(n^2) / O(n^2)| 11 | Unaided | NA | — |
 | 9 | 2026-11-25 | Longest Consecutive Sequence | Hash Map, Union | O(n) / O(n) | 19 | Unaided | Designing a dict that both tracks seen values and keeps accurate numbers for boundaries | — |
 | 10 | 2026-11-26 | Valid Parentheses | Stack | O(n) / O(n) | 7 | Unaided | NA | — |
+| 11 | 2026-11-27 | Valid Palindrome | Two Pointer | O(n) / O(1) | 11 | Unaided | NA | — |
